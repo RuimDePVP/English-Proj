@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ruimdepvp.github.io/static/css/main.8d65bca6.chunk.css",
+    "main.js": "/ruimdepvp.github.io/static/js/main.85691c9d.chunk.js",
+    "main.js.map": "/ruimdepvp.github.io/static/js/main.85691c9d.chunk.js.map",
+    "runtime-main.js": "/ruimdepvp.github.io/static/js/runtime-main.c481aaed.js",
+    "runtime-main.js.map": "/ruimdepvp.github.io/static/js/runtime-main.c481aaed.js.map",
+    "static/js/2.a3293a83.chunk.js": "/ruimdepvp.github.io/static/js/2.a3293a83.chunk.js",
+    "static/js/2.a3293a83.chunk.js.map": "/ruimdepvp.github.io/static/js/2.a3293a83.chunk.js.map",
+    "index.html": "/ruimdepvp.github.io/index.html",
+    "precache-manifest.67acd138983f3a5887dd0bf888779d7f.js": "/ruimdepvp.github.io/precache-manifest.67acd138983f3a5887dd0bf888779d7f.js",
+    "service-worker.js": "/ruimdepvp.github.io/service-worker.js",
+    "static/css/main.8d65bca6.chunk.css.map": "/ruimdepvp.github.io/static/css/main.8d65bca6.chunk.css.map",
+    "static/js/2.a3293a83.chunk.js.LICENSE.txt": "/ruimdepvp.github.io/static/js/2.a3293a83.chunk.js.LICENSE.txt",
+    "static/media/correct.ogg": "/ruimdepvp.github.io/static/media/correct.7e026ecd.ogg",
+    "static/media/game_img.png": "/ruimdepvp.github.io/static/media/game_img.f7102461.png",
+    "static/media/incorrect.ogg": "/ruimdepvp.github.io/static/media/incorrect.503d9693.ogg",
+    "static/media/weird_music.mp3": "/ruimdepvp.github.io/static/media/weird_music.155f1e08.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c481aaed.js",
+    "static/js/2.a3293a83.chunk.js",
+    "static/css/main.8d65bca6.chunk.css",
+    "static/js/main.85691c9d.chunk.js"
+  ]
+}
