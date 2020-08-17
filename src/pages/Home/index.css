@@ -1,0 +1,29 @@
+.game-img {
+  width: 100%;
+  max-width: 400px;
+  height: 400px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.subtitle {
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.game-desc {
+  color: #444;
+  margin: 10px;
+  width: 100%;
+  max-width: 350px;
+  text-align: justify;
+}
+
+button.play {
+  color: #eee;
+  background-color: #ff4040;
+}
+
+button.play:hover {
+  background-color: #ff3030;
+}

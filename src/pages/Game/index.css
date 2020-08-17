@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+@keyframes grow {
+  from {
+    font-size: 18;
+  }
+  to {
+    font-size: 20px;
+  }
+}
+
+* {
+  color: #333;
+}
+
+.game-window {
+  background: rgb(2,0,36);
+  background: linear-gradient(45deg, rgba(2,0,36,1) 0%, #095079 1%, #26ABFF 100%);
+  width: 100%;
+  max-width: 400px;
+  height: 400px;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 10px;
+  align-items: center;
+}
+
+p {
+  margin: 40px;
+  font-size: 18px;
+}
+
+p.word {
+  color: #222;
+  font-size: 36px;
+  font-family: 'Fredoka One', Arial, Helvetica, sans-serif;
+}
+
+button.game-btn {
+  margin-top: 20px;
+  color: #eee;
+  background-color: #ff4040;
+  width: 125px;
+}
+
+button.game-btn:hover {
+  background-color: #ff3030;
+}
+
+button.back {
+  background-color: #ccc;
+}
+
+button.back:hover {
+  background-color: #bbb;
+}
+
+p.counter span {
+  margin: 5px;
+  height: 20px;
+}
+
+p.counter span.count {
+  animation-name: grow;
+  animation-duration: 250ms;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  color: #ff0000;
+}

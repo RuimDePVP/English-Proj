@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d65bca6.chunk.css",
+    "main.js": "/static/js/main.56cb69df.chunk.js",
+    "main.js.map": "/static/js/main.56cb69df.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a3d8a8fb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a3d8a8fb.js.map",
+    "static/js/2.ac22248c.chunk.js": "/static/js/2.ac22248c.chunk.js",
+    "static/js/2.ac22248c.chunk.js.map": "/static/js/2.ac22248c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d1c27417093183a37d63b2305c63648e.js": "/precache-manifest.d1c27417093183a37d63b2305c63648e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8d65bca6.chunk.css.map": "/static/css/main.8d65bca6.chunk.css.map",
+    "static/js/2.ac22248c.chunk.js.LICENSE.txt": "/static/js/2.ac22248c.chunk.js.LICENSE.txt",
+    "static/media/correct.ogg": "/static/media/correct.7e026ecd.ogg",
+    "static/media/game_img.png": "/static/media/game_img.f7102461.png",
+    "static/media/incorrect.ogg": "/static/media/incorrect.503d9693.ogg",
+    "static/media/weird_music.mp3": "/static/media/weird_music.155f1e08.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3d8a8fb.js",
+    "static/js/2.ac22248c.chunk.js",
+    "static/css/main.8d65bca6.chunk.css",
+    "static/js/main.56cb69df.chunk.js"
+  ]
+}
